@@ -1,0 +1,80 @@
+AIX R4.1|aix4
+AIX R4.2|aix42
+AIX R4.2.0|aix420
+AIX R4.2.1|aix421
+AIX R4.3|aix43
+AIX R4.3.3|aix433
+AIX R5.1 (32 bit)|aix513
+AIX R5.1 (64 bit)|aix516
+AIX R5.2 (32 bit)|aix523
+AIX R5.2 (64 bit)|aix526
+AIX R6.1, R7.1 (32 bit)|aix533
+AIX R6.1, R7.1 (64 bit)|aix536
+HP-UX R10.01/10.10|hp10
+HP-UX R10.20|hp102
+HP-UX R11 (32 bit)|hp11
+HP-UX R11 (64 bit)|hp116
+HP-UX R11 Integrity (32 bit)|hpi113
+HP-UX R11 Integrity (64 bit)|hpi116
+Linux Intel R2.2|li622
+Linux Intel R2.2 (32 bit)|li6223
+Linux Intel R2.4|li624
+Linux Intel R2.4 GCC 2.9.5 (32 bit)|li6242
+Linux Intel R2.4 (32 bit)|li6243
+Linux Intel R2.4 GCC 2.9.5 (64 bit)|li6245
+Linux Intel R2.4 (64 bit)|li6246
+Linux Intel R2.6 GCC 2.9.5 (32 bit)|li6262
+Linux Intel R2.6, R3.0 (32 bit)|li6263
+Linux Intel R2.6 GCC 2.9.5 (64 bit)|li6265
+Linux Intel R2.6, R3.0 (64 bit)|li6266
+Linux S390 R2.2|ls322
+Linux S390 R2.2 (32 bit)|ls3223
+Linux S390 R2.2 (64 bit)|ls3226
+Linux S390 R2.4|ls324
+Linux S390 R2.4 GCC 2.9.5 (32 bit)|ls3242
+Linux S390 R2.4 (32 bit)|ls3243
+Linux S390 R2.4 GCC 2.9.5 (64 bit)|ls3245
+Linux S390 R2.4 (64 bit)|ls3246
+Linux S390 R2.6 GCC 2.9.5 (32 bit)|ls3262
+Linux S390 R2.6, R3.0 (32 bit)|ls3263
+Linux S390 R2.6 GCC 2.9.5 (64 bit)|ls3265
+Linux S390 R2.6, R3.0 (64 bit)|ls3266
+Linux x86_64 R2.4 (32 bit)|lx8243
+Linux x86_64 R2.4 (64 bit)|lx8246
+Linux x86_64 R2.6, R3.0 (32 bit)|lx8263
+Linux x86_64 R2.6, R3.0 (64 bit)|lx8266
+Linux ia64 R2.4 (64 bit)|lia246
+Linux ia64 R2.6, R3.0 (64 bit)|lia266
+Linux ppc R2.4 (64 bit)|lpp246
+Linux ppc R2.6, R3.0 (32 bit)|lpp263
+Linux ppc R2.6, R3.0 (64 bit)|lpp266
+Linux ppcle R3.0 (64 bit)|lpl266
+MVS|mvs
+Digital UNIX|osf1
+OS/2|os2
+OS/400|os400
+Solaris R2.4|sol24
+Solaris R2.5|sol25
+Solaris R2.6|sol26
+Solaris R7 (32 bit)|sol273
+Solaris R7 (64 bit)|sol276
+Solaris R8 (32 bit)|sol283
+Solaris R8 (64 bit)|sol286
+Solaris R9 (32 bit)|sol293
+Solaris R9 (64 bit)|sol296
+Solaris R10, R11 (32 bit)|sol503
+Solaris R10, R11 (64 bit)|sol506
+Solaris Opteron R10, R11 (32 bit)|sol603
+Solaris Opteron R10, R11 (64 bit)|sol606
+Tandem Itanium (64 Bit)|ta6046
+Tandem MIPS (64 Bit)|tv6256
+Tru64 V5.0|tsf50
+TMS|tms
+Tivoli Enterprise Portal Server support|tps
+Tivoli Enterprise Portal Desktop Client support|tpd
+Tivoli Enterprise Portal Browser Client support|tpw
+Tivoli Performance Analyzer Domain support|tpa
+Common Code, Sample Libraries and Documentation|unix
+WINNT|winnt
+WINNT|SLib
+Windows 86-x64|wix64
